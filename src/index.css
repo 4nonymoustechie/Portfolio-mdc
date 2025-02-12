@@ -1,0 +1,20 @@
+
+@import "tailwindcss";
+
+/* Custom global styles can be added below */
+body {
+  font-family: 'Inter', sans-serif; /* You can change this to any preferred font */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Example of adding custom styles */
+
+a {
+  text-decoration: none; /* Removing underlines from links globally */
+}
