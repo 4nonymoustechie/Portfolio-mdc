@@ -6,7 +6,7 @@ import { DiNodejsSmall } from "react-icons/di"
 import { RiTailwindCssFill } from "react-icons/ri"
 import { IoLogoFigma } from "react-icons/io5"
 import mdc from './assets/images/mdc-1.png'
-import Card from "./components/card"
+ import Card from "./components/card"
 import { inputProject } from "./assets/projects"
 import Contact from "./components/Contact"
 
@@ -30,7 +30,7 @@ const App = () => {
         <div className="intro flex flex-col justify-between md:flex-row items-center gap-10 md:gap-[6rem] mt-8 max-w-screen-lg mx-auto px-4">
           
           <div className="text-left  md:w-[50%]">
-    <h5 className="greeting text-[1.5rem]">Hello, I'm</h5>
+    <h5 className="greeting text-[1.5rem]">Hello, {"I'm"}</h5>
     <h4 className="name text-orange-600 font-medium font-montesserat text-[3rem] md:text-[2rem]">
       Ibrahim Omobolaji Busari
     </h4>
