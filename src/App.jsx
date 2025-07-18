@@ -9,6 +9,7 @@ import Card from "./Card";
 import mdc from './assets/images/mdc-1.png';
 import { inputProject } from "./assets/projects";
 import Contact from "./Contact";
+import ResumeViewer from "./ResumeViewer";
 
 
 
@@ -77,6 +78,8 @@ const App = () => {
      }
 
       </div>
+      <ResumeViewer/>
+     
       <Contact/>
     </div>
   )
