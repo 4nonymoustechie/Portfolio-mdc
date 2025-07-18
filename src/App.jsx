@@ -5,10 +5,10 @@ import { FaCss3 } from "react-icons/fa";
 import { DiNodejsSmall } from "react-icons/di";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { IoLogoFigma } from "react-icons/io5";
-import Card from "./components/Card.";
+import Card from "./Card";
 import mdc from './assets/images/mdc-1.png';
 import { inputProject } from "./assets/projects";
-import Contact from "./components/Contact";
+import Contact from "./Contact";
 
 
 const App = () => {
