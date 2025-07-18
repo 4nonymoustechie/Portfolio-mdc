@@ -1,14 +1,14 @@
-import React from "react"
-import { FaHtml5 } from "react-icons/fa"
-import { FaReact } from "react-icons/fa"
-import { FaCss3 } from "react-icons/fa"
-import { DiNodejsSmall } from "react-icons/di"
-import { RiTailwindCssFill } from "react-icons/ri"
-import { IoLogoFigma } from "react-icons/io5"
-import mdc from './assets/images/mdc-1.png'
- import Card from "./components/card"
-import { inputProject } from "./assets/projects"
-import Contact from "./components/Contact"
+import React from "react";
+import { FaHtml5 } from "react-icons/fa";
+import { FaReact } from "react-icons/fa";
+import { FaCss3 } from "react-icons/fa";
+import { DiNodejsSmall } from "react-icons/di";
+import { RiTailwindCssFill } from "react-icons/ri";
+import { IoLogoFigma } from "react-icons/io5";
+import Card from "./components/Card.";
+import mdc from './assets/images/mdc-1.png';
+import { inputProject } from "./assets/projects";
+import Contact from "./components/Contact";
 
 
 const App = () => {
